@@ -1,0 +1,8 @@
+{
+	"env": [
+		{
+			"U29DC": "path/to/u29dc/directory"
+		}
+	],
+	"path": ["$U29DC"]
+}

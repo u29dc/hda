@@ -1,0 +1,19 @@
+# editor
+.idea/
+.vscode/
+tmp/
+
+# houdini backup
+*_bak*.hip
+backup/
+
+# python environment
+.env
+.envrc
+.venv
+ENV/
+venv/
+
+# python cache
+__pycache__/
+*.py[cod]
